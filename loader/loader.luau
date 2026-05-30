@@ -18,7 +18,7 @@ local SCRIPTS = {
     {name = "Fly",    url = "https://raw.githubusercontent.com/blueberryggames-a11y/scpsite/refs/heads/main/loader/scripts/fly.luau"},
     {name = "Speed",  url = "https://raw.githubusercontent.com/blueberryggames-a11y/scpsite/refs/heads/main/loader/scripts/speed.luau"},
     {name = "Noclip", url = "https://raw.githubusercontent.com/blueberryggames-a11y/scpsite/refs/heads/main/loader/scripts/noclip.luau"},
-    {name = "Noclip V2", url = "https://raw.githubusercontent.com/blueberryggames-a11y/scpsite/refs/heads/main/loader/scripts/noclipv2.luau"},
+    {name = "NoclipV2", url = "https://raw.githubusercontent.com/blueberryggames-a11y/scpsite/refs/heads/main/loader/scripts/noclipv2.luau"},
 }
 -- =======================================================
 
