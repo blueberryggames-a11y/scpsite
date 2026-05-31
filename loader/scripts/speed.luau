@@ -34,7 +34,7 @@ if _G.speedHack then
 end
 
 -- ==================== SETTINGS ====================
-local maxSafeSpeed = 50        -- keep below 50 to avoid basic speed checks
+local maxSafeSpeed = 200        -- keep below 50 to avoid basic speed checks
 local allowUnsafe = false      -- set true to allow speeds above 50 (use at own risk)
 local initialSpeed = 16        -- typical default walkspeed
 local minSpeed = 2
