@@ -142,7 +142,7 @@ end)
 -- Toggle with F key
 uis.InputBegan:Connect(function(input, gameProcessed)
     if gameProcessed then return end
-    if input.KeyCode == Enum.KeyCode.F then
+    if input.KeyCode == Enum.KeyCode.T then
         toggleNoclip()
     end
 end)
